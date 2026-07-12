@@ -22,7 +22,7 @@ AND NOT A RAT
 
 
 # DISCORD SERVER O EM GEE
-https://discord.gg/zCME47236d
+nvm gatekeeping for now
 
 
 
