@@ -9,6 +9,7 @@ AND NOT A RAT
 
 # FAQ
 > 1. Is this a rat?
+
 No this isnt a rat and its 100% virus **free**
 
 2.IS THIS EXPLOITING - NO WE ONLY TOUCH LUAVM AND WRITE MEMORY
