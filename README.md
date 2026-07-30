@@ -8,7 +8,7 @@ BYPASSES BYPASS
 AND NOT A RAT
 
 # FAQ
-----
+
 **Q: Is this malware?**
 
 **A:** No. This executor is **100% virus free**
