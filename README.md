@@ -7,18 +7,31 @@ BYPASSES BYPASS
 
 AND NOT A RAT
 
-# COMMON ASKED QUESTIONS
-1.IS THIS A RAT - NO NO THIS IS NOT A RAT PLS TRUST AND DOWNLOAD PLS PLS 
+# FAQ
 
-2.IS THIS EXPLOITING - NO WE ONLY TOUCH LUAVM AND WRITE MEMORY
+**Q: Is this malware?**
 
-3.WHY DOES IT SAY THAT MY SCRIPT IS ASS WHEN I TRY TO EXECUTE SCRIPT - ITS BECAUSE THE ANTIVIRUS BLOCKS SHIT FROM WORKING YOU MUST DISABLE IT AND PLAY ON YOUR MAIN ACCOUNT
+**A:** No. This executor is **100% virus free**
 
-4.DOES THIS SHIT STEAL .ROBLOSECURITY COOKIE? - NO NO NO THIS TOOL DOESNT STEAL YOUR .ROBLOSECURITY COOKIE PLS TRUST AND USE ON YOUR MAIN ACCOUNT
+**Q: Is this exploiting?**
 
-5.CAN THIS FIRE THE FLICK OFF REMOTE EVENT IN SLAP BATTLES? - YES YES IT CAN FIRE THE FLICK OFF REMOTE EVENT IN SLAP BATTLES ON YOUR MAIN ACCOUNT JUST MAKE SURE TO USE YOUR MAIN ACCOUNT OKAY MAIN ACCOUNT NOT ALT MAIN ACCOUNT 
+**A:** No. We only touch luavm and write memory
 
-6. DOES ROBLOX ALLOW THIS? YES 100% ROVLOX SAID EYS YES YES YES ROVALRA EXECUTOR DSVE ME LIFE
+**Q: Why does it show that my script is ass when im trying to execute the code?**
+
+**A:** This happens because there's an antivirus that blocks the executor from changing memory and touching luavm. To fix this you must **disable it and play on your main account**
+
+**Q: Does this steal roblox cookies?**
+
+**A:** No. We ensure that there is no viruses in our executor. You can trust us and use it on your main account.
+
+**Q: Can this fire the infamous "Slap Battles Flick Off Remote Event"?**
+
+**A:** Yes. 
+
+**Q: Does Roblox allow this?**
+
+**A:** Yes! Roblox sent a green light to us. You can trust us.
 
 
 # DISCORD SERVER O EM GEE
