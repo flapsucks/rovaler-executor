@@ -35,7 +35,7 @@ AND NOT A RAT
 
 
 # DISCORD SERVER O EM GEE
-nvm gatekeeping for now
+https://discord.gg/ku2pEfd4ht
 
 
 
